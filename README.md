@@ -10,3 +10,5 @@ disjoint spans design: https://docs.google.com/document/d/11cZjc8XL4VxUJqKtYa0V8
 average number of utterance per transcript experiment: https://colab.research.google.com/drive/1YBtpGx92H2k20ZxJzy-6df_Cprxw8cpH?usp=sharing
 
 intent vs non intent training: https://colab.research.google.com/drive/1XMW7HnxhXMou6QS2ITvhROCPPUXOYZcC?usp=sharing
+
+intent highlight script: https://docs.google.com/document/d/1r97Y1zJjSI5ZqMni8pcONJCgUu9FtAcYHpVHoBP94rw/edit?usp=sharing
